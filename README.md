@@ -1,37 +1,34 @@
-# 💫 Hola, soy Janis
+<h1 align="center"><b>Hi, I'm Janis Aravena</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-Desarrolladora enfocada en crear soluciones web escalables con stack MERN, combinando visión técnica, liderazgo y enfoque en negocio.  
-Me motiva participar en proyectos desafiantes donde pueda generar impacto real y seguir creciendo profesionalmente.
+<img align="right" width="300px" alt="Coding Girl" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
----
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> About me
 
-## 🌐 Conecta conmigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaravenae/)
+Soy desarrolladora de software, apasionada por el desarrollo front-end y back-end, enfocada en el aprendizaje constante y la creación de soluciones innovadoras. Me encanta aprender y crear soluciones nuevas, productivas, creativas e innovadoras.
 
----
+- 🌱 Actualmente sigo fortaleciendo mis conocimientos en desarrollo web
+- 💻 Me interesa crear interfaces modernas y aplicaciones escalables
+- 🚀 Disfruto aprender nuevas tecnologías y enfrentar desafíos
+- 🤝 He trabajado en células ágiles aplicando buenas prácticas de desarrollo
+- 📫 Contáctame en: **[LinkedIn](https://www.linkedin.com/in/jaravenae/)**
 
-# 💻 Tech Stack
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/azuredevops-0078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+## 🚀 My Skills Include
 
----
+<h4>Languages & Technologies</h4>
 
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=JanisAravena&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=JanisAravena&theme=tokyonight&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JanisAravena&theme=tokyonight&hide_border=false&layout=compact)
+<span>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</span>
 
----
+## 🌐 Connect with me
 
-### 🚀 Filosofía
-> “No solo escribo código, construyo soluciones que aportan valor real.”
+<a href="https://www.linkedin.com/in/jaravenae/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
