@@ -1,6 +1,13 @@
-<h1 align="center"><b>Hi, I'm Janis Aravena</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">
+  <b>Hi, I'm Janis Aravena</b>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
 
-<img align="right" width="300px" alt="Coding Girl" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+<p align="center">
+  <img width="220px" alt="Coding Girl" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+</p>
+
+---
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> About me
 
@@ -11,6 +18,8 @@ Soy desarrolladora de software, apasionada por el desarrollo front-end y back-en
 - 🚀 Disfruto aprender nuevas tecnologías y enfrentar desafíos
 - 🤝 He trabajado en células ágiles aplicando buenas prácticas de desarrollo
 - 📫 Contáctame en: **[LinkedIn](https://www.linkedin.com/in/jaravenae/)**
+
+---
 
 ## 🚀 My Skills Include
 
@@ -26,6 +35,8 @@ Soy desarrolladora de software, apasionada por el desarrollo front-end y back-en
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </span>
+
+---
 
 ## 🌐 Connect with me
 
